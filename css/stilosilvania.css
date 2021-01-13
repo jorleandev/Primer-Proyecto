@@ -1,0 +1,205 @@
+* {
+        margin: 0;
+        padding: 0;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+:root {
+        --color: #fb0000;
+        --gris:#707070;
+}
+
+.wrapper {
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: space-between;
+}
+
+header {
+        background-image: url(/img/HUJWBZB7P5BRZLRESTAH3LOL2E.jpg);
+        background-size: cover;
+        background-attachment: fixed;
+        background-position: bottom;
+        height: 100%;
+        width: 100%;
+        align-self: auto;
+        display: flex;
+        justify-content: space-between;
+        flex-flow: column wrap;
+}
+.container-logo a img {
+        margin: 10px 10px 10px 10px;
+        padding-left: 40px;
+        padding-top: 20px;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: nowrap;
+        position: relative;
+}
+nav {
+        margin: 20px 20px 10px 300px;
+        justify-content: space-evenly;
+        padding-top: 60px;
+        display: flex;
+        padding: 35px;
+        flex-flow: row wrap;
+}
+
+.links a {
+        text-decoration: none;
+        color: black;
+        padding: 10px;
+        
+}
+
+.titulo {
+        flex-flow: column wrap;
+        height: auto;
+        width: 100%;
+        display: flex;
+        justify-content: flex-end;
+        text-align: right;
+        padding-right: 10px;
+}
+
+.encabezado {
+        padding-right: 80px;
+        margin-bottom: 80px;
+        color: black;
+
+
+}
+
+#silvania {
+        background-image: url(/img/IMG-20201224-WA0061.jpg);
+        display: flex;
+        justify-content: left;
+        background-size: cover;
+        background-attachment: fixed;
+        background-position: bottom;
+        height: 100%;
+        width: 100%;
+        align-self: auto;
+        justify-content: space-evenly;
+        flex-flow: column wrap;
+        padding-left: 70px; 
+}
+
+.seccion1 {
+        padding-top: 250px;
+}
+
+#geografia {
+        background-image: url(/img/parallax.jpg);
+        background-size: cover;
+        background-attachment: fixed;
+        background-position: bottom;
+        height: 100%;
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        flex-flow: row;
+    }
+
+.brujula {
+        transition: transform .99s;
+        display: flex;
+        flex-direction: column;
+        flex-flow: column;
+        padding-left: 200px;
+        margin-top: 130px;
+}
+
+.brujula:hover {
+        transform: scale(1.5);
+}
+
+.ubicacion {
+        padding-right: 100px;
+        display: flex;
+        flex-direction: column;
+        flex-flow: column;
+        margin-top: 150px;
+        text-align: right;
+}
+
+#club {
+        background-image: url(/img/CLUB_CAMPESTRE_EL_BOSQUE_en_Silvania\,_Cundinamarca.JPG); 
+        height: 100%;
+        width: 100%;
+        background-size: cover;
+        background-attachment: fixed;
+        background-position: bottom;
+        height: 100%;
+        width: 100%;
+        align-self: auto;
+        display: flex;
+        justify-content: space-between;
+        flex-flow: column wrap;
+}
+
+.seccion3 {
+        padding-top: 60px;
+        margin-left: 60px;
+}
+
+.container {
+        background-color: #464646;
+        display: flex;
+        height: 50%;
+        justify-content: center;
+}
+
+.footer1 {
+        display: inline-flex;
+        justify-content: center;
+        padding-top: 100px;
+        margin-right: 50px;
+
+}
+.footer1 a{
+        margin: 0 15 0;
+        text-decoration: none;
+}
+
+.footer11 p {
+        display: inline-flex;
+        justify-content: center;
+        padding-top: 100px;
+        margin-right: 30px;
+        font-size: xxx-large;
+        size: 800px;
+}
+.footer2 {
+        display: inline-flex;
+        justify-content: center;
+        justify-content: space-around;
+        padding-top: 100px; 
+
+}
+.footer3 {
+        display: inline-flex;
+        position: relative;
+        justify-content: center;
+        justify-content: space-around;
+        padding-top: 35px;
+        margin-left: 50px;
+        
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
