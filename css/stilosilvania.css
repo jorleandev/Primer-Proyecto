@@ -147,6 +147,7 @@ nav {
         display: flex;
         height: 50%;
         justify-content: center;
+
 }
 
 .footer1 {
@@ -154,6 +155,8 @@ nav {
         justify-content: center;
         padding-top: 100px;
         margin-right: 50px;
+        text-decoration: none;
+
 
 }
 .footer1 a{
@@ -183,8 +186,6 @@ nav {
         justify-content: space-around;
         padding-top: 35px;
         margin-left: 50px;
-        
-
 }
 
 
